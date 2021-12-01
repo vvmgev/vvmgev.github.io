@@ -1,0 +1,14 @@
+.searchbar{
+	height: 45px;
+	padding: 0;
+	color: white;
+	border: none;
+	width: 380px;
+	border-bottom: solid thin white;
+    background: transparent;
+}
+
+.searchbar:focus {
+	outline: none; 
+	color: white;
+}

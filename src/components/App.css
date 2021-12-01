@@ -1,0 +1,24 @@
+.clear {
+	clear: both;
+}
+
+body {
+	margin: 0;
+	height: 100vh;
+	background-color: #343d4b;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.container {
+	border-radius: 25px;
+	box-shadow: 0 0 70px -10px rgba(0, 0, 0, 0.2);
+	background-color: #222831;
+	color: #ffffff;
+	min-height: 400px;
+	min-width: 450px;
+	padding: 30px;
+
+}
+
